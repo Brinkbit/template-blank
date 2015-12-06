@@ -1,9 +1,38 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
 
-	</head>
-	<body>
-		
-	</body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="user-scalable=0, initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width, minimal-ui=1">
+    <title>Brinkbit - Mobile Endless Jumper Template Phaser</title>
+    <script src="phaser.min.js"></script>
+    <script src="phaser-arcade-physics.min.js"></script>
+    <script src="store.min.js"></script>
+    <script src="BootState.js"></script>
+    <script src="PreloaderState.js"></script>
+    <script src="MainMenuState.js"></script>
+    <script src="GameState.js"></script>
+    <script src="AboutState.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript">
+    window.onload = function() {
+        var game = new Phaser.Game( 1024, 768, Phaser.AUTO, 'game' );
+
+        // add the States your game has.
+        // remember to include them above.
+        game.state.add( 'Boot', EndlessJumper.BootState );
+        game.state.add( 'Preloader', EndlessJumper.PreloaderState );
+        game.state.add( 'MainMenu', EndlessJumper.MainMenuState );
+        game.state.add( 'Game', EndlessJumper.GameState );
+        game.state.add( 'About', EndlessJumper.AboutState );
+
+        // now start the Boot state.
+        game.state.start( 'Boot' );
+    };
+    </script>
+</head>
+
+<body>
+</body>
+
 </html>
