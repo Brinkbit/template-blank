@@ -1,0 +1,196 @@
+{"frames": [
+
+{
+	"filename": "FlappyGoat_Assets_About_hover.png",
+	"frame": {"x":1545,"y":1517,"w":366,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":366,"h":135},
+	"sourceSize": {"w":366,"h":135}
+},
+{
+	"filename": "FlappyGoat_Assets_About_neutral.png",
+	"frame": {"x":1545,"y":1654,"w":366,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":366,"h":135},
+	"sourceSize": {"w":366,"h":135}
+},
+{
+	"filename": "FlappyGoat_Assets_About_pressed.png",
+	"frame": {"x":1570,"y":1791,"w":366,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":366,"h":135},
+	"sourceSize": {"w":366,"h":135}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple.png",
+	"frame": {"x":1945,"y":104,"w":71,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":102},
+	"sourceSize": {"w":71,"h":102}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple_explode1.png",
+	"frame": {"x":1934,"y":433,"w":66,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":66,"h":97},
+	"sourceSize": {"w":66,"h":98}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple_explode2.png",
+	"frame": {"x":1945,"y":208,"w":71,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":71,"h":100},
+	"sourceSize": {"w":72,"h":100}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple_explode3.png",
+	"frame": {"x":1934,"y":310,"w":99,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":99,"h":121},
+	"sourceSize": {"w":100,"h":121}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple_explode4.png",
+	"frame": {"x":1726,"y":1369,"w":165,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":165,"h":143},
+	"sourceSize": {"w":166,"h":144}
+},
+{
+	"filename": "FlappyGoat_Assets_Apple_explode5.png",
+	"frame": {"x":1545,"y":1362,"w":179,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":179,"h":153},
+	"sourceSize": {"w":181,"h":154}
+},
+{
+	"filename": "FlappyGoat_Assets_Backdrop.png",
+	"frame": {"x":2,"y":783,"w":770,"h":1026},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":1026},
+	"sourceSize": {"w":770,"h":1027}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb.png",
+	"frame": {"x":1945,"y":2,"w":74,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":100},
+	"sourceSize": {"w":75,"h":100}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb_explode1.png",
+	"frame": {"x":1934,"y":532,"w":68,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":68,"h":92},
+	"sourceSize": {"w":69,"h":92}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb_explode2.png",
+	"frame": {"x":1893,"y":1369,"w":134,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":134,"h":133},
+	"sourceSize": {"w":154,"h":133}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb_explode3.png",
+	"frame": {"x":1806,"y":1162,"w":235,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":235,"h":205},
+	"sourceSize": {"w":236,"h":205}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb_explode4.png",
+	"frame": {"x":1673,"y":2,"w":270,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":270,"h":247},
+	"sourceSize": {"w":271,"h":248}
+},
+{
+	"filename": "FlappyGoat_Assets_Bomb_explode5.png",
+	"frame": {"x":1545,"y":851,"w":369,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":369,"h":309},
+	"sourceSize": {"w":370,"h":310}
+},
+{
+	"filename": "FlappyGoat_Assets_CityScape.png",
+	"frame": {"x":2,"y":2,"w":1669,"h":779},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":1669,"h":779},
+	"sourceSize": {"w":1669,"h":785}
+},
+{
+	"filename": "FlappyGoat_Assets_Goat_1.png",
+	"frame": {"x":1673,"y":251,"w":259,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":259,"h":198},
+	"sourceSize": {"w":300,"h":210}
+},
+{
+	"filename": "FlappyGoat_Assets_Goat_2.png",
+	"frame": {"x":1673,"y":451,"w":259,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":259,"h":198},
+	"sourceSize": {"w":300,"h":210}
+},
+{
+	"filename": "FlappyGoat_Assets_Goat_3.png",
+	"frame": {"x":1673,"y":651,"w":259,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":259,"h":198},
+	"sourceSize": {"w":300,"h":210}
+},
+{
+	"filename": "FlappyGoat_Assets_Goat_4.png",
+	"frame": {"x":1545,"y":1162,"w":259,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":259,"h":198},
+	"sourceSize": {"w":300,"h":210}
+},
+{
+	"filename": "FlappyGoat_Assets_Ground.png",
+	"frame": {"x":2,"y":1811,"w":1566,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1566,"h":125},
+	"sourceSize": {"w":1566,"h":126}
+},
+{
+	"filename": "FlappyGoat_Assets_Title_screen.png",
+	"frame": {"x":774,"y":783,"w":769,"h":1025},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":769,"h":1025},
+	"sourceSize": {"w":769,"h":1025}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flappy0.png",
+	"format": "RGBA8888",
+	"size": {"w":2043,"h":1938},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e8b8a51de2f4f6c34cf5c0382bbdcbc:651aed3063730d43a1ea61c5f5747672:1db5ed852319ebd684ca2e8201934262$"
+}
+}
