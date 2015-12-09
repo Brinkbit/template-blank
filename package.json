@@ -1,8 +1,7 @@
 {
-  "name": "template-phaser-endlessJumper",
+  "name": "template-phaser",
   "version": "0.1.0",
-  "description": "A template for making an endless jumper in phaser",
-  "main": "index.js",
+  "description": "The most basic game template",
   "scripts": {
     "test": "grunt test"
   },
