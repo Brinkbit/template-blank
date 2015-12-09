@@ -29,16 +29,6 @@ module.exports = function initGrunt( grunt ) {
                         cwd: 'src/',
                         src: [ '**' ],
                         dest: 'build/'
-                    },
-                    {
-                        expand: true,
-                        cwd: 'node_modules/phaser/build/',
-                        src: [ 'phaser.map', 'phaser.min.js' ],
-                        dest: 'build/'
-                    },
-                    {
-                        src: 'node_modules/store/store.min.js',
-                        dest: 'build/store.min.js'
                     }
                 ]
             }
